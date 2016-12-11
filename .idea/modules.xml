@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MC_DiashowMaven.iml" filepath="$PROJECT_DIR$/MC_DiashowMaven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MC_Diashow_Wildfly.iml" filepath="$PROJECT_DIR$/MC_Diashow_Wildfly.iml" />
     </modules>
   </component>
 </project>

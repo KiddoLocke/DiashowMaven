@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="MC_DiashowMaven" />
+        <module name="MC_Diashow_Wildfly" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="MC_DiashowMaven" target="1.8" />
+      <module name="MC_Diashow_Wildfly" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
